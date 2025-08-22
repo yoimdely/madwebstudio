@@ -1,0 +1,1 @@
+MAD React project (from user's App.tsx)
